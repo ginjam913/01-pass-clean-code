@@ -1,7 +1,5 @@
 # 01-pass-clean-code
 
-ติดตั้งด้วย `npm ci --ignore-scripts` แล้วรัน `npm test` และ `npm run coverage`
-
 ## ผลที่คาดหวัง
 
 ยอดรวมได้ 45 ตะกร้าว่างได้ 0 และข้อมูลที่ไม่ใช่อาร์เรย์ทำให้เกิด TypeError ตรวจผลทั้งสามกรณีใน Jest
